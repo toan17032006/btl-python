@@ -1,0 +1,30 @@
+thu du an.py:4:SB
+--------------------------------------------------------------------
+Last Page: https://www.footballtransfers.com/en/players
+ Duration: 28.36s
+  Browser: Chrome 146.0.7680.165
+   Driver: chromedriver 146.0.7680.165
+Timestamp: 1774690217  (Unix Timestamp)
+     Date: Saturday, 28 March 2026
+     Time: 4:30:17 PM  (SE Asia Standard Time, UTC+07:00)
+--------------------------------------------------------------------
+Traceback:
+  Traceback (most recent call last):
+  File "c:\Users\Admin\Desktop\btl code\thu du an.py", line 14, in <module>
+    sb.wait_for_element("h1", timeout=20)
+    ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python314\Lib\site-packages\seleniumbase\fixtures\base_case.py", line 10004, in wait_for_element
+    return page_actions.wait_for_element_visible(
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        self.driver, selector, by, timeout
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python314\Lib\site-packages\seleniumbase\fixtures\page_actions.py", line 524, in wait_for_element_visible
+    timeout_exception(ElementNotVisibleException, message)
+    ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python314\Lib\site-packages\seleniumbase\fixtures\page_actions.py", line 270, in timeout_exception
+    raise exc(msg)
+seleniumbase.common.exceptions.ElementNotVisibleException: Message: 
+ Element {h1} was not visible after 20 seconds!
+
