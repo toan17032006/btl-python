@@ -1,0 +1,341 @@
+squad,metric,mean,median,std
+Arsenal,mp,25.318,25.5,8.014
+Arsenal,starts,19.0,18.5,10.523
+Arsenal,minutes,1698.909,1657.5,919.732
+Arsenal,min_90s,18.877,18.4,10.224
+Arsenal,gls,3.045,2.5,2.836
+Arsenal,ast,2.5,2.0,2.872
+Arsenal,g_plus_a,5.545,3.5,5.016
+Arsenal,g_minus_pk,2.955,2.0,2.804
+Arsenal,pk,0.091,0.0,0.287
+Arsenal,pkatt,0.091,0.0,0.287
+Arsenal,crdy,3.182,3.5,1.874
+Arsenal,crdr,0.273,0.0,0.538
+Arsenal,per90_gls,0.175,0.125,0.155
+Arsenal,per90_ast,0.131,0.11,0.135
+Arsenal,per90_g_a,0.306,0.31,0.219
+Arsenal,per90_g_minus_pk,0.17,0.12,0.154
+Arsenal,per90_g_a_minus_pk,0.302,0.31,0.213
+Aston Villa,mp,21.0,22.0,11.036
+Aston Villa,starts,14.929,11.0,12.337
+Aston Villa,minutes,1339.393,1129.5,1002.412
+Aston Villa,min_90s,14.882,12.55,11.136
+Aston Villa,gls,2.0,1.0,3.359
+Aston Villa,ast,1.607,0.0,2.65
+Aston Villa,g_plus_a,3.607,2.5,5.46
+Aston Villa,g_minus_pk,1.893,1.0,3.075
+Aston Villa,pk,0.107,0.0,0.409
+Aston Villa,pkatt,0.214,0.0,0.558
+Aston Villa,crdy,2.714,2.0,2.358
+Aston Villa,crdr,0.143,0.0,0.35
+Aston Villa,per90_gls,0.163,0.045,0.264
+Aston Villa,per90_ast,0.082,0.0,0.112
+Aston Villa,per90_g_a,0.245,0.12,0.309
+Aston Villa,per90_g_minus_pk,0.153,0.045,0.257
+Aston Villa,per90_g_a_minus_pk,0.235,0.12,0.294
+Bournemouth,mp,23.667,28.5,10.746
+Bournemouth,starts,17.375,19.5,12.602
+Bournemouth,minutes,1558.25,1764.5,1088.688
+Bournemouth,min_90s,17.312,19.6,12.103
+Bournemouth,gls,2.375,1.0,3.626
+Bournemouth,ast,1.708,1.0,1.968
+Bournemouth,g_plus_a,4.083,2.0,5.123
+Bournemouth,g_minus_pk,2.125,1.0,3.127
+Bournemouth,pk,0.25,0.0,1.199
+Bournemouth,pkatt,0.292,0.0,1.207
+Bournemouth,crdy,4.042,3.0,3.142
+Bournemouth,crdr,0.125,0.0,0.331
+Bournemouth,per90_gls,0.156,0.04,0.209
+Bournemouth,per90_ast,0.094,0.055,0.106
+Bournemouth,per90_g_a,0.25,0.19,0.269
+Bournemouth,per90_g_minus_pk,0.146,0.04,0.2
+Bournemouth,per90_g_a_minus_pk,0.24,0.19,0.257
+Brentford,mp,24.545,27.5,12.376
+Brentford,starts,19.0,19.0,14.327
+Brentford,minutes,1702.364,1681.5,1210.451
+Brentford,min_90s,18.909,18.7,13.447
+Brentford,gls,2.955,0.0,5.772
+Brentford,ast,2.0,1.5,2.505
+Brentford,g_plus_a,4.955,2.0,7.37
+Brentford,g_minus_pk,2.727,0.0,5.163
+Brentford,pk,0.227,0.0,1.041
+Brentford,pkatt,0.273,0.0,1.25
+Brentford,crdy,2.818,2.0,2.249
+Brentford,crdr,0.045,0.0,0.208
+Brentford,per90_gls,0.108,0.0,0.186
+Brentford,per90_ast,0.086,0.08,0.088
+Brentford,per90_g_a,0.194,0.125,0.231
+Brentford,per90_g_minus_pk,0.102,0.0,0.174
+Brentford,per90_g_a_minus_pk,0.188,0.125,0.219
+Brighton,mp,21.214,23.0,10.638
+Brighton,starts,14.929,11.5,10.529
+Brighton,minutes,1339.643,1056.0,929.301
+Brighton,min_90s,14.889,11.75,10.323
+Brighton,gls,2.286,1.0,3.115
+Brighton,ast,1.464,1.0,1.679
+Brighton,g_plus_a,3.75,2.0,4.603
+Brighton,g_minus_pk,2.036,1.0,2.706
+Brighton,pk,0.25,0.0,0.95
+Brighton,pkatt,0.25,0.0,0.95
+Brighton,crdy,2.786,2.0,2.582
+Brighton,crdr,0.107,0.0,0.309
+Brighton,per90_gls,0.138,0.095,0.143
+Brighton,per90_ast,0.092,0.03,0.123
+Brighton,per90_g_a,0.23,0.155,0.228
+Brighton,per90_g_minus_pk,0.124,0.095,0.126
+Brighton,per90_g_a_minus_pk,0.216,0.155,0.208
+Chelsea,mp,21.269,20.5,12.104
+Chelsea,starts,16.077,13.0,12.652
+Chelsea,minutes,1441.615,1117.5,1103.3
+Chelsea,min_90s,16.015,12.4,12.263
+Chelsea,gls,2.346,1.0,3.594
+Chelsea,ast,1.808,1.0,2.254
+Chelsea,g_plus_a,4.154,2.0,5.627
+Chelsea,g_minus_pk,2.192,1.0,3.101
+Chelsea,pk,0.154,0.0,0.769
+Chelsea,pkatt,0.192,0.0,0.962
+Chelsea,crdy,3.885,2.5,3.344
+Chelsea,crdr,0.077,0.0,0.266
+Chelsea,per90_gls,0.126,0.06,0.15
+Chelsea,per90_ast,0.115,0.07,0.124
+Chelsea,per90_g_a,0.243,0.15,0.251
+Chelsea,per90_g_minus_pk,0.122,0.06,0.144
+Chelsea,per90_g_a_minus_pk,0.239,0.15,0.245
+Crystal Palace,mp,25.136,31.0,11.783
+Crystal Palace,starts,18.864,19.0,13.795
+Crystal Palace,minutes,1690.864,1743.0,1155.892
+Crystal Palace,min_90s,18.791,19.4,12.851
+Crystal Palace,gls,2.182,1.0,3.486
+Crystal Palace,ast,1.727,1.0,2.24
+Crystal Palace,g_plus_a,3.909,2.0,5.026
+Crystal Palace,g_minus_pk,2.045,1.0,3.111
+Crystal Palace,pk,0.136,0.0,0.457
+Crystal Palace,pkatt,0.182,0.0,0.575
+Crystal Palace,crdy,3.5,2.0,3.368
+Crystal Palace,crdr,0.182,0.0,0.386
+Crystal Palace,per90_gls,0.136,0.04,0.179
+Crystal Palace,per90_ast,0.098,0.05,0.144
+Crystal Palace,per90_g_a,0.234,0.145,0.293
+Crystal Palace,per90_g_minus_pk,0.131,0.04,0.172
+Crystal Palace,per90_g_a_minus_pk,0.229,0.145,0.289
+Everton,mp,24.5,25.5,9.519
+Everton,starts,18.955,17.0,10.956
+Everton,minutes,1700.227,1582.5,938.453
+Everton,min_90s,18.895,17.6,10.419
+Everton,gls,1.773,1.0,2.448
+Everton,ast,1.227,1.0,1.444
+Everton,g_plus_a,3.0,2.0,2.796
+Everton,g_minus_pk,1.682,1.0,2.203
+Everton,pk,0.091,0.0,0.417
+Everton,pkatt,0.091,0.0,0.417
+Everton,crdy,3.636,4.0,2.307
+Everton,crdr,0.091,0.0,0.287
+Everton,per90_gls,0.099,0.035,0.13
+Everton,per90_ast,0.082,0.05,0.111
+Everton,per90_g_a,0.181,0.1,0.181
+Everton,per90_g_minus_pk,0.095,0.035,0.125
+Everton,per90_g_a_minus_pk,0.178,0.1,0.179
+Fulham,mp,25.696,29.0,10.153
+Fulham,starts,18.174,18.0,12.328
+Fulham,minutes,1632.348,1772.0,1034.202
+Fulham,min_90s,18.135,19.7,11.494
+Fulham,gls,2.304,0.0,3.419
+Fulham,ast,1.913,1.0,2.569
+Fulham,g_plus_a,4.217,2.0,4.773
+Fulham,g_minus_pk,2.174,0.0,3.088
+Fulham,pk,0.13,0.0,0.612
+Fulham,pkatt,0.174,0.0,0.636
+Fulham,crdy,3.478,3.0,3.02
+Fulham,crdr,0.087,0.0,0.282
+Fulham,per90_gls,0.151,0.0,0.218
+Fulham,per90_ast,0.094,0.08,0.107
+Fulham,per90_g_a,0.246,0.1,0.274
+Fulham,per90_g_minus_pk,0.147,0.0,0.213
+Fulham,per90_g_a_minus_pk,0.241,0.1,0.27
+Ipswich Town,mp,19.767,18.5,9.81
+Ipswich Town,starts,13.933,12.0,10.25
+Ipswich Town,minutes,1245.767,1081.0,853.495
+Ipswich Town,min_90s,13.84,12.0,9.489
+Ipswich Town,gls,1.167,0.0,2.282
+Ipswich Town,ast,0.867,0.5,1.056
+Ipswich Town,g_plus_a,2.033,1.5,2.714
+Ipswich Town,g_minus_pk,1.1,0.0,1.972
+Ipswich Town,pk,0.067,0.0,0.359
+Ipswich Town,pkatt,0.067,0.0,0.359
+Ipswich Town,crdy,3.1,2.0,2.797
+Ipswich Town,crdr,0.167,0.0,0.373
+Ipswich Town,per90_gls,0.086,0.0,0.136
+Ipswich Town,per90_ast,0.063,0.015,0.089
+Ipswich Town,per90_g_a,0.148,0.095,0.166
+Ipswich Town,per90_g_minus_pk,0.083,0.0,0.13
+Ipswich Town,per90_g_a_minus_pk,0.145,0.095,0.162
+Leicester City,mp,21.296,23.0,10.19
+Leicester City,starts,15.481,14.0,10.546
+Leicester City,minutes,1391.222,1391.0,874.256
+Leicester City,min_90s,15.456,15.5,9.718
+Leicester City,gls,1.222,0.0,2.114
+Leicester City,ast,0.926,0.0,1.359
+Leicester City,g_plus_a,2.148,1.0,2.953
+Leicester City,g_minus_pk,1.148,0.0,1.919
+Leicester City,pk,0.074,0.0,0.262
+Leicester City,pkatt,0.111,0.0,0.416
+Leicester City,crdy,3.222,3.0,2.657
+Leicester City,crdr,0.0,0.0,0.0
+Leicester City,per90_gls,0.064,0.0,0.095
+Leicester City,per90_ast,0.056,0.0,0.083
+Leicester City,per90_g_a,0.119,0.05,0.137
+Leicester City,per90_g_minus_pk,0.061,0.0,0.089
+Leicester City,per90_g_a_minus_pk,0.116,0.05,0.133
+Liverpool,mp,26.409,30.5,10.143
+Liverpool,starts,19.0,21.0,12.635
+Liverpool,minutes,1704.455,1823.5,1045.409
+Liverpool,min_90s,18.945,20.25,11.622
+Liverpool,gls,3.864,1.0,6.511
+Liverpool,ast,2.955,2.0,3.831
+Liverpool,g_plus_a,6.818,3.5,10.12
+Liverpool,g_minus_pk,3.455,1.0,5.034
+Liverpool,pk,0.409,0.0,1.875
+Liverpool,pkatt,0.409,0.0,1.875
+Liverpool,crdy,3.045,2.5,2.345
+Liverpool,crdr,0.136,0.0,0.343
+Liverpool,per90_gls,0.164,0.06,0.214
+Liverpool,per90_ast,0.142,0.135,0.139
+Liverpool,per90_g_a,0.305,0.175,0.326
+Liverpool,per90_g_minus_pk,0.153,0.06,0.187
+Liverpool,per90_g_a_minus_pk,0.294,0.175,0.297
+Manchester City,mp,21.6,26.0,9.662
+Manchester City,starts,16.68,19.0,9.414
+Manchester City,minutes,1498.6,1674.0,836.332
+Manchester City,min_90s,16.648,18.6,9.288
+Manchester City,gls,2.84,1.0,4.496
+Manchester City,ast,2.04,0.0,2.615
+Manchester City,g_plus_a,4.88,3.0,5.443
+Manchester City,g_minus_pk,2.72,1.0,3.995
+Manchester City,pk,0.12,0.0,0.588
+Manchester City,pkatt,0.16,0.0,0.784
+Manchester City,crdy,2.36,2.0,1.741
+Manchester City,crdr,0.08,0.0,0.271
+Manchester City,per90_gls,0.176,0.12,0.218
+Manchester City,per90_ast,0.1,0.0,0.133
+Manchester City,per90_g_a,0.276,0.27,0.242
+Manchester City,per90_g_minus_pk,0.172,0.12,0.209
+Manchester City,per90_g_a_minus_pk,0.272,0.27,0.234
+Manchester Utd,mp,19.233,20.5,11.612
+Manchester Utd,starts,13.933,12.0,10.896
+Manchester Utd,minutes,1248.667,1113.0,940.833
+Manchester Utd,min_90s,13.87,12.35,10.452
+Manchester Utd,gls,1.4,0.0,2.304
+Manchester Utd,ast,0.967,0.0,2.105
+Manchester Utd,g_plus_a,2.367,0.5,4.151
+Manchester Utd,g_minus_pk,1.267,0.0,2.081
+Manchester Utd,pk,0.133,0.0,0.562
+Manchester Utd,pkatt,0.133,0.0,0.562
+Manchester Utd,crdy,2.867,2.5,2.591
+Manchester Utd,crdr,0.1,0.0,0.396
+Manchester Utd,per90_gls,0.072,0.0,0.11
+Manchester Utd,per90_ast,0.042,0.0,0.079
+Manchester Utd,per90_g_a,0.115,0.015,0.174
+Manchester Utd,per90_g_minus_pk,0.067,0.0,0.107
+Manchester Utd,per90_g_a_minus_pk,0.109,0.015,0.165
+Newcastle United,mp,25.174,28.0,10.462
+Newcastle United,starts,18.174,17.0,13.265
+Newcastle United,minutes,1632.0,1755.0,1106.389
+Newcastle United,min_90s,18.13,19.5,12.286
+Newcastle United,gls,2.87,0.0,5.093
+Newcastle United,ast,2.174,1.0,2.899
+Newcastle United,g_plus_a,5.043,2.0,7.238
+Newcastle United,g_minus_pk,2.652,0.0,4.4
+Newcastle United,pk,0.217,0.0,0.832
+Newcastle United,pkatt,0.261,0.0,0.895
+Newcastle United,crdy,2.957,2.0,3.237
+Newcastle United,crdr,0.043,0.0,0.204
+Newcastle United,per90_gls,0.143,0.0,0.215
+Newcastle United,per90_ast,0.1,0.03,0.121
+Newcastle United,per90_g_a,0.242,0.17,0.271
+Newcastle United,per90_g_minus_pk,0.135,0.0,0.199
+Newcastle United,per90_g_a_minus_pk,0.234,0.17,0.257
+Nottingham Forest,mp,26.5,32.5,11.641
+Nottingham Forest,starts,19.0,20.5,14.107
+Nottingham Forest,minutes,1707.682,1939.0,1177.138
+Nottingham Forest,min_90s,18.977,21.55,13.074
+Nottingham Forest,gls,2.591,1.0,4.345
+Nottingham Forest,ast,1.909,1.0,2.811
+Nottingham Forest,g_plus_a,4.5,1.5,6.103
+Nottingham Forest,g_minus_pk,2.455,1.0,3.811
+Nottingham Forest,pk,0.136,0.0,0.625
+Nottingham Forest,pkatt,0.136,0.0,0.625
+Nottingham Forest,crdy,4.091,3.5,3.383
+Nottingham Forest,crdr,0.091,0.0,0.287
+Nottingham Forest,per90_gls,0.116,0.06,0.151
+Nottingham Forest,per90_ast,0.086,0.05,0.103
+Nottingham Forest,per90_g_a,0.201,0.145,0.196
+Nottingham Forest,per90_g_minus_pk,0.112,0.06,0.138
+Nottingham Forest,per90_g_a_minus_pk,0.197,0.145,0.186
+Southampton,mp,19.6,19.5,10.926
+Southampton,starts,13.9,13.0,10.3
+Southampton,minutes,1244.567,1161.5,892.516
+Southampton,min_90s,13.83,12.9,9.911
+Southampton,gls,0.833,0.5,1.035
+Southampton,ast,0.533,0.0,0.921
+Southampton,g_plus_a,1.367,1.0,1.516
+Southampton,g_minus_pk,0.833,0.5,1.035
+Southampton,pk,0.0,0.0,0.0
+Southampton,pkatt,0.067,0.0,0.249
+Southampton,crdy,2.867,2.0,3.117
+Southampton,crdr,0.1,0.0,0.396
+Southampton,per90_gls,0.054,0.015,0.078
+Southampton,per90_ast,0.041,0.0,0.094
+Southampton,per90_g_a,0.096,0.06,0.124
+Southampton,per90_g_minus_pk,0.054,0.015,0.078
+Southampton,per90_g_a_minus_pk,0.096,0.06,0.124
+Tottenham Hotspur,mp,21.037,24.0,9.131
+Tottenham Hotspur,starts,15.444,16.0,8.02
+Tottenham Hotspur,minutes,1387.778,1408.0,675.119
+Tottenham Hotspur,min_90s,15.422,15.6,7.501
+Tottenham Hotspur,gls,2.259,1.0,3.261
+Tottenham Hotspur,ast,1.704,1.0,2.338
+Tottenham Hotspur,g_plus_a,3.963,2.0,5.117
+Tottenham Hotspur,g_minus_pk,2.148,1.0,3.147
+Tottenham Hotspur,pk,0.111,0.0,0.314
+Tottenham Hotspur,pkatt,0.148,0.0,0.448
+Tottenham Hotspur,crdy,2.667,2.0,2.465
+Tottenham Hotspur,crdr,0.037,0.0,0.189
+Tottenham Hotspur,per90_gls,0.126,0.05,0.181
+Tottenham Hotspur,per90_ast,0.106,0.07,0.135
+Tottenham Hotspur,per90_g_a,0.233,0.13,0.261
+Tottenham Hotspur,per90_g_minus_pk,0.12,0.05,0.177
+Tottenham Hotspur,per90_g_a_minus_pk,0.227,0.13,0.257
+West Ham United,mp,23.48,23.0,9.051
+West Ham United,starts,16.72,14.0,11.337
+West Ham United,minutes,1500.32,1160.0,959.055
+West Ham United,min_90s,16.672,12.9,10.647
+West Ham United,gls,1.72,0.0,3.092
+West Ham United,ast,1.16,1.0,1.804
+West Ham United,g_plus_a,2.88,1.0,4.581
+West Ham United,g_minus_pk,1.6,0.0,2.912
+West Ham United,pk,0.12,0.0,0.431
+West Ham United,pkatt,0.12,0.0,0.431
+West Ham United,crdy,3.28,2.0,2.864
+West Ham United,crdr,0.12,0.0,0.325
+West Ham United,per90_gls,0.088,0.0,0.123
+West Ham United,per90_ast,0.078,0.04,0.132
+West Ham United,per90_g_a,0.167,0.08,0.235
+West Ham United,per90_g_minus_pk,0.084,0.0,0.119
+West Ham United,per90_g_a_minus_pk,0.163,0.08,0.233
+Wolves,mp,23.75,27.0,10.429
+Wolves,starts,17.333,15.5,11.611
+Wolves,minutes,1558.417,1387.0,945.685
+Wolves,min_90s,17.312,15.45,10.502
+Wolves,gls,2.208,1.0,3.894
+Wolves,ast,1.75,1.0,2.296
+Wolves,g_plus_a,3.958,2.0,5.511
+Wolves,g_minus_pk,2.208,1.0,3.894
+Wolves,pk,0.0,0.0,0.0
+Wolves,pkatt,0.0,0.0,0.0
+Wolves,crdy,3.292,2.5,2.922
+Wolves,crdr,0.083,0.0,0.276
+Wolves,per90_gls,0.113,0.065,0.151
+Wolves,per90_ast,0.091,0.03,0.116
+Wolves,per90_g_a,0.204,0.125,0.223
+Wolves,per90_g_minus_pk,0.113,0.065,0.151
+Wolves,per90_g_a_minus_pk,0.204,0.125,0.223

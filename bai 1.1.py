@@ -5,7 +5,7 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 import sqlite3
 
-conn = sqlite3.connect('player premier legaue.db')
+conn = sqlite3.connect('ngoaihang.db')
 cursor = conn.cursor()
 cursor.execute('DROP TABLE IF EXISTS player_stats')
 

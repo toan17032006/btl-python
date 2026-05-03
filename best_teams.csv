@@ -1,0 +1,17 @@
+metric,best_squad,mean
+ast,Liverpool,2.955
+crdr,Arsenal,0.273
+crdy,Nottingham Forest,4.091
+g_minus_pk,Liverpool,3.455
+g_plus_a,Liverpool,6.818
+gls,Liverpool,3.864
+id,Arsenal,344.318
+min_90s,Nottingham Forest,18.977
+minutes,Nottingham Forest,1707.682
+per90_ast,Liverpool,0.142
+per90_g_a,Arsenal,0.306
+per90_g_a_minus_pk,Arsenal,0.302
+per90_g_minus_pk,Manchester City,0.172
+per90_gls,Manchester City,0.176
+pk,Liverpool,0.409
+pkatt,Liverpool,0.409
