@@ -14,7 +14,7 @@ api = Api(app)
 # Return information about a player
 class Player (Resource):
     def get(self, player_name):
-        conn = sqlite3.connect('player premier legaue.db')
+        conn = sqlite3.connect('chi so cau thu da hon 90 phut.db')
         conn.row_factory = sqlite3.Row
         cursor = conn.cursor()
         query = cursor.execute("select * from player_stats where player = ?", (player_name,)).fetchall()
@@ -25,7 +25,7 @@ class Player (Resource):
 #Return information of players of a club
 class Club(Resource):
     def get(self, club_name):
-        conn = sqlite3.connect('player premier legaue.db')
+        conn = sqlite3.connect('chi so cau thu da hon 90 phut.db')
         conn.row_factory = sqlite3.Row
         cursor = conn.cursor()
         rows = cursor.execute('select * from player_stats where squad = ?', (club_name,)).fetchall()
