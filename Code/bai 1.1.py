@@ -5,6 +5,10 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 import sqlite3
 
+# Khi bị Rate- Limit sử dụng link: "(chrome.exe --remote-debugging-port=9222 --user-data-dir="C:\selenium\ChromeProfile" ) 
+# để tự truy cập trang web bằng cách dán link trên vào terminal hoặc ( nhấn Window + R và paste link vào )
+
+
 conn = sqlite3.connect('ngoaihang.db')
 cursor = conn.cursor()
 cursor.execute('DROP TABLE IF EXISTS player_stats')
